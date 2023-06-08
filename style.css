@@ -77,9 +77,9 @@ body {
     display: unset;
 }
 aside {
-    width: 480px;
-    height: 480px; 
-    border-radius: 240px;
+    width: 500px;
+    height: 500px; 
+    border-radius: 250px;
     position: relative;
     top: 35vh;
     left: 250px;
